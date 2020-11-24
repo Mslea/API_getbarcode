@@ -1,5 +1,5 @@
-# from pyzbar import pyzbar
-import cv2
+from pyzbar import pyzbar
+# import cv2
 
 import json
 import io
