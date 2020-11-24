@@ -1,14 +1,14 @@
 # from pyzbar import pyzbar
-# import cv2
+import cv2
 
-# import json
-# import io
-# import numpy as np
+import json
+import io
+import numpy as np
 from flask import Flask, jsonify, request
 
-# from PIL import Image, ImageOps
-# import base64
-# import re
+from PIL import Image, ImageOps
+import base64
+import re
 from flask_cors import CORS
 
 
